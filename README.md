@@ -26,7 +26,7 @@ The first step in the programm is that we will collect data from diffrent stocks
 
 
 #### Momentum Strategy 
-
+The momentum strategy is first used by Richard Driehaus. The Key behind this strategy is to buy stocks if they in the rising and sell them if they reached their peak. To reconise those trends the trader have to find signals for buy and sell actions. 
 
 #### Backtester 
 
