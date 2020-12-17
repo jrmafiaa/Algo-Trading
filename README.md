@@ -15,5 +15,10 @@ Numpy, Pandas, datetime, matplotlib.pyplot, pandas_datareader
 
 This program is written to trade stocks 
 
+#### Collecting Data 
 
-### Momentum Strategy 
+#### Dow Jones Stocks 
+
+#### Momentum Strategy 
+
+#### Backtester 
