@@ -17,7 +17,14 @@ In order to run it, the following libraries need to be installed:
 
 ## Description
 
-This program is written to trade stocks 
+This program is written to trade stocks
+
+The code is plit into following parts: 
+* Collecting Data
+* Buy and Sell Desistions
+* Buy and Sell Actions in a Simulated Protfolio
+* Plot Current Portfolio
+
 
 #### Collecting Data 
 The first step in the programm is that we will collect data from diffrent stocks. Unfrurtnally we don't have a Key to provide the programm with real time data from a tool like quandl. That's why it is more focused on past decisions. 
