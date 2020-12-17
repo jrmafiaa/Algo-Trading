@@ -16,9 +16,13 @@ Numpy, Pandas, datetime, matplotlib.pyplot, pandas_datareader
 This program is written to trade stocks 
 
 #### Collecting Data 
+The first step in the programm is that we will collect data from diffrent stocks. Unfrurtnally we don't have a Key to provide the programm with real time data. That's why it is more focused on past decisions. 
 
 #### Dow Jones Stocks 
 
+
 #### Momentum Strategy 
 
+
 #### Backtester 
+
