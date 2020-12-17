@@ -8,8 +8,7 @@ This is a group project for the course indrudctioin in to Programing at the Univ
 ## Requierments  
 The program is coeded 100% with Python
 
-In order to run it, the following libraries need to be installed:
-Numpy, Matplotlib, Seaborn, Sklearn, FPDF
+In order to run it, the following libraries need to be installed: Numpy, Pandas, datetime, matplotlib.pyplot, pandas_datareader
 
 ## Description
 
