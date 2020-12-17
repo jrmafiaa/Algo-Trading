@@ -14,3 +14,6 @@ Numpy, Pandas, datetime, matplotlib.pyplot, pandas_datareader
 ## Description
 
 This program is written to trade stocks 
+
+
+### Momentum Strategy 
