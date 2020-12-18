@@ -3,27 +3,28 @@ Algorithmic Stock Trading Program with Python
 
 
 ## About 
-This is a group project for the course indrudctioin in to Programing at the University of St.Gallen. The project is done by chrisisb and jrmafiaa 
+This is a group project for the course Skills: Programming - Introduction Level at the University of St.Gallen. The project is done by chrisisb and jrmafiaa. Due to our common interest in financial markets, we decided to develop a program that buys and sells shares on the markets using a selected trading strategy. 
 
 ## Requierments  
 The program is coeded 100% with Python
 
 In order to run it, the following libraries need to be installed:    
-* Numpy
-* Pandas
 * datetime
-* matplotlib.pyplot
+* Pandas
 * pandas_datareader
+* matplotlib.pyplot
+* numpy
 
 ## Description
 
 This program is written to trade stocks
 
 The code is plit into following parts: 
-* Collecting Data
-* Buy and Sell Desistions
-* Buy and Sell Actions in a Simulated Protfolio
-* Plot Current Portfolio
+* Import
+* Trading Strategy / Creating Signals
+* Plot and Development of the 3 Stocks
+* Using Signals in a Simulation
+* Plot simulated Portfolio
 
 
 #### Collecting Data 
