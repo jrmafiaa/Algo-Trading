@@ -36,9 +36,10 @@ The 3 stocks used in the Simulation are Apple, Microsoft and 3M. In the code we 
 
 
 #### Momentum Strategy 
-The momentum strategy is first used by Richard Driehaus. The Key is that the strategy realizes price based singals. With the strategy we should buy stocks if they in the rising and sell them if they reached their peak. To reconise those trends the trader have to find signals for buy and sell actions. Our goal would be that we  buy the stocks in short term uptrends and sell them if they reached their momentum. That our strategy will work we should choose three stocks with a high volatility and a high trading volume.   
+The momentum strategy is first used by Richard Driehaus. The Key is that the strategy realizes price based singals. With the strategy we should buy stocks if they in the rising and sell them if they reached their peak. To reconise those trends the trader have to find signals for buy and sell actions. Our goal would be that we  buy the stocks in short term uptrends and sell them if they reached their momentum. That our strategy will work we should choose three stocks with a high volatility  and a high trading volume. To see the signals from the  momentum strategy we have to establish 2 time frames, a long term and a short term. In our programm we set those to short =  20 days and long = 100 days. The time frames could be changed to optimize the trading outcomes. 
 
 #### Creating Signals
+Our start sittuation is now that the long window is higher than the short window. If those change so the short window of a stock get's higher than the long window we create a buying signal for the spezific stock. When now the short and long window switch again we create a selling signal. 
 
 ### Plot and Development of the 3 Stocks
  
@@ -54,3 +55,4 @@ The momentum strategy is first used by Richard Driehaus. The Key is that the str
 * https://www.youtube.com/watch?v=-MHhA-Y3DSk
 * https://www.youtube.com/watch?v=SEQbb8w7VTw
 * https://www.investopedia.com/trading/introduction-to-momentum-trading/#:~:text=Momentum%20investing%20is%20a%20trading,securities%20start%20to%20lose%20momentum.
+* https://slsp-hsg.primo.exlibrisgroup.com/permalink/41SLSP_HSG/uq0rei/cdi_gale_infotracacademiconefile_A66964111 
