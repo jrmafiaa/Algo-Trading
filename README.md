@@ -30,13 +30,14 @@ The code is plit into following parts:
 #### Collecting Data 
 The first step in the programm is that we will collect data from diffrent stocks. Unfrurtnally we don't have a Key to provide the programm with real time data from a tool like quandl. That's why it is more focused on past decisions. 
 
-#### Choosen Stocks 
-The 3 stocks used in the Simulation are Apple, Tesla and BioNTech
 
-Those were choosen because their traiding volume in 2020 were high due the pandamic. 
+#### Choosen Stocks 
+The 3 stocks used in the Simulation are Apple, Microsoft and 3M. In the code we wrote down some more examples that could be used. In practise every public listed stock with an ticker symbol could be used in this program. 
+
 
 #### Momentum Strategy 
 The momentum strategy is first used by Richard Driehaus. The Key is that the strategy realizes price based singals. The Key behind this strategy is to buy stocks if they in the rising and sell them if they reached their peak. To reconise those trends the trader have to find signals for buy and sell actions. 
+
 
 #### Backtester 
 
