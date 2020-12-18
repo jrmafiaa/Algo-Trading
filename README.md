@@ -45,10 +45,10 @@ Our start situation is now that the long window is higher than the short window.
 After we created every necessary information we will visualize them in three charts, one for every chosen stock. Here we can see the development of the stock (red line), the short-term moving average (blue line), and the long-term moving average (orange line). The pyramids will show the discovered buy and sell signals. The magenta one will visualize a buy signal and the black one will visualize a sell signal. 
 
 ### Using Signals in a Simulation
-To test our strategy we set up a simulation in a portfolio over the past 365 days. We set up the portfolio with an inistial capital of 300,000 USD. The initial capital can be changed to see the outcome with diffrent inputs. The simulation counts all profits and losses and will add the value to the protfolio. 
+To test our strategy we set up a simulation in a portfolio over the past 365 days. We set up the portfolio with an initial capital of 300,000 USD. The initial capital can be changed to see the outcome with different inputs. The simulation counts all profits and losses and will add value to the portfolio.
 
 ### Plot simulated Portfolio
-To visualize the development of our invested money we will plot at the end the value of our portfolio. Here cam the user of the program see how the trading strategy would turn out over the year. 
+To visualize the development of our invested money we will plot at the end the value of our portfolio. Here cam the user of the program sees how the trading strategy would turn out over the year. 
 ###  
 ###   
 ###  
