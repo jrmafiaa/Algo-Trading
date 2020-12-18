@@ -3,7 +3,7 @@ Algorithmic Stock Trading Program with Python
 
 
 ## About 
-This is a group project for the course Skills: Programming - Introduction Level at the University of St.Gallen. The project is done by chrisisb and jrmafiaa. Due to our common interest in financial markets, we decided to develop a program that buys and sells shares on the markets using a selected trading strategy.
+This is a group project for the course Skills: Programming - Introduction Level at the University of St.Gallen. The project is done by chrissib and jrmafiaa. Due to our common interest in financial markets, we decided to develop a program that buys and sells shares on the markets using a selected trading strategy.
 
 ## Requierments  
 The program is coeded 100% with Python
